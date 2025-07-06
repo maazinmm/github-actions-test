@@ -75,3 +75,13 @@ jobs:
 3. Push your changes to the `main` branch
 
 GitHub will automatically run the workflow and count your files!
+
+## It works!
+On the Actions tab, the workflow automatically runs and performs the specified executes jobs
+
+![Screenshot 2025-07-06 233507](https://github.com/user-attachments/assets/8148de19-b2a3-43ee-ad15-1ba4bb00272b)
+
+![Screenshot 2025-07-06 233554](https://github.com/user-attachments/assets/43600fea-b320-4a28-b4a4-b6fc5b590a93)
+
+![Screenshot 2025-07-06 233614](https://github.com/user-attachments/assets/88897fb3-01c9-43ba-a591-a2e9f517a197)
+
